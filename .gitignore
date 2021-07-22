@@ -1,0 +1,11 @@
+/.classpath
+/.project
+/hibernateProjectSetupWithJar/.classpath
+/hibernateProjectSetupWithJar/.project
+/hibernateProjectSetupWithJar/.settings/org.eclipse.jdt.core.prefs
+/hibernateProjectSetupWithJar/bin/Product.hbm.xml
+/hibernateProjectSetupWithJar/bin/Seller.hbm.xml
+/hibernateProjectSetupWithJar/bin/com/ashifshadab/app/Test.class
+/hibernateProjectSetupWithJar/bin/com/ashifshadab/model/Product.class
+/hibernateProjectSetupWithJar/bin/com/ashifshadab/model/Seller.class
+/hibernateProjectSetupWithJar/bin/hibernate.cfg.xml
