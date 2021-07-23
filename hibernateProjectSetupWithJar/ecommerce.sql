@@ -1,3 +1,7 @@
+CREATE DATABASE ecommerce;
+
+USE ecommerce;
+
 CREATE TABLE SELLER (
 code VARCHAR(6) PRIMARY KEY,
 name VARCHAR(64) NOT NULL,
