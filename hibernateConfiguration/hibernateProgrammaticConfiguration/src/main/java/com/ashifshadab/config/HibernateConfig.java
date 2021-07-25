@@ -45,8 +45,8 @@ public class HibernateConfig {
 				.setProperty("hibernate.connection.driver_class", "com.mysql.cj.jdbc.Driver")
 				.setProperty("hibernate.connection.url",
 						"jdbc:mysql://localhost:3306/ecommerce?useSSL=false&allowPublicKeyRetrieval=true")
-				.setProperty("hibernate.connection.username", "ashif")
-				.setProperty("hibernate.connection.password", "Flower@123");
+				.setProperty("hibernate.connection.username", "root")
+				.setProperty("hibernate.connection.password", "root");
 
 		return configuration;
 	}
@@ -72,8 +72,8 @@ public class HibernateConfig {
 				.setProperty("hibernate.connection.driver_class", "com.mysql.cj.jdbc.Driver")
 				.setProperty("hibernate.connection.url",
 						"jdbc:mysql://localhost:3306/ecommerce?useSSL=false&allowPublicKeyRetrieval=true")
-				.setProperty("hibernate.connection.username", "ashif")
-				.setProperty("hibernate.connection.password", "Flower@123");
+				.setProperty("hibernate.connection.username", "root")
+				.setProperty("hibernate.connection.password", "root");
 
 		return configuration;
 	}
@@ -92,8 +92,8 @@ public class HibernateConfig {
 				.setProperty("hibernate.connection.driver_class", "com.mysql.cj.jdbc.Driver")
 				.setProperty("hibernate.connection.url",
 						"jdbc:mysql://localhost:3306/ecommerce?useSSL=false&allowPublicKeyRetrieval=true")
-				.setProperty("hibernate.connection.username", "ashif")
-				.setProperty("hibernate.connection.password", "Flower@123");
+				.setProperty("hibernate.connection.username", "root")
+				.setProperty("hibernate.connection.password", "root");
 
 		return configuration;
 	}
