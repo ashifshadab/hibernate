@@ -41,3 +41,17 @@
 /hibernateConfiguration/hibernateProgrammaticConfiguration/.settings/org.eclipse.jdt.apt.core.prefs
 /hibernateConfiguration/hibernateProgrammaticConfiguration/.settings/org.eclipse.jdt.core.prefs
 /hibernateConfiguration/hibernateProgrammaticConfiguration/.settings/org.eclipse.m2e.core.prefs
+/hibernateConfiguration/hibernateXMLConfiguration/.classpath
+/hibernateConfiguration/hibernateXMLConfiguration/.project
+/hibernateConfiguration/hibernateXMLConfiguration/.settings/org.eclipse.jdt.apt.core.prefs
+/hibernateConfiguration/hibernateXMLConfiguration/.settings/org.eclipse.jdt.core.prefs
+/hibernateConfiguration/hibernateXMLConfiguration/.settings/org.eclipse.m2e.core.prefs
+/hibernateConfiguration/hibernateXMLConfiguration/target/classes/META-INF/MANIFEST.MF
+/hibernateConfiguration/hibernateXMLConfiguration/target/classes/META-INF/maven/com.ashifshadab/hibernateXMLConfiguration/pom.properties
+/hibernateConfiguration/hibernateXMLConfiguration/target/classes/META-INF/maven/com.ashifshadab/hibernateXMLConfiguration/pom.xml
+/hibernateConfiguration/hibernateXMLConfiguration/target/classes/Product.hbm.xml
+/hibernateConfiguration/hibernateXMLConfiguration/target/classes/Seller.hbm.xml
+/hibernateConfiguration/hibernateXMLConfiguration/target/classes/com/ashifshadab/app/Test.class
+/hibernateConfiguration/hibernateXMLConfiguration/target/classes/com/ashifshadab/model/Product.class
+/hibernateConfiguration/hibernateXMLConfiguration/target/classes/com/ashifshadab/model/Seller.class
+/hibernateConfiguration/hibernateXMLConfiguration/target/classes/hibernate.cfg.xml
