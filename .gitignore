@@ -79,3 +79,14 @@
 /hibernateUsingAnnotaion/.project
 /hibernateUsingAnnotaion/bin/com/ashifshadab/app/Test.class
 /hibernateUsingAnnotaion/bin/com/ashifshadab/model/Seller.class
+/hibernateUsingJPAEntityManager/.classpath
+/hibernateUsingJPAEntityManager/.project
+/hibernateUsingJPAEntityManager/.settings/org.eclipse.jdt.apt.core.prefs
+/hibernateUsingJPAEntityManager/.settings/org.eclipse.jdt.core.prefs
+/hibernateUsingJPAEntityManager/.settings/org.eclipse.m2e.core.prefs
+/hibernateUsingJPAEntityManager/target/classes/META-INF/MANIFEST.MF
+/hibernateUsingJPAEntityManager/target/classes/META-INF/maven/com.ashifshadab/hibernateUsingJPAEntityManager/pom.properties
+/hibernateUsingJPAEntityManager/target/classes/META-INF/maven/com.ashifshadab/hibernateUsingJPAEntityManager/pom.xml
+/hibernateUsingJPAEntityManager/target/classes/META-INF/persistence.xml
+/hibernateUsingJPAEntityManager/target/classes/com/ashifshadab/app/Test.class
+/hibernateUsingJPAEntityManager/target/classes/com/ashifshadab/model/Seller.class
