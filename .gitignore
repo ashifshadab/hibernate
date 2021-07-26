@@ -75,3 +75,7 @@
 /hibernateConfiguration/hibernatePropertiesFileConfiguration/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
 /hibernateConfiguration/hibernatePropertiesFileConfiguration/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 /hibernateConfiguration/hibernatePropertiesFileConfiguration/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/hibernateUsingAnnotaion/.classpath
+/hibernateUsingAnnotaion/.project
+/hibernateUsingAnnotaion/bin/com/ashifshadab/app/Test.class
+/hibernateUsingAnnotaion/bin/com/ashifshadab/model/Seller.class
