@@ -8,5 +8,6 @@
   <modules>
   	<module>hibernateProgrammaticConfiguration</module>
   	<module>hibernateXMLConfiguration</module>
+  	<module>hibernatePropertiesFileConfiguration</module>
   </modules>
 </project>
